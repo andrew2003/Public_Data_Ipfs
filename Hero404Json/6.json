@@ -5,7 +5,8 @@
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "6"
+      "value": 6,
+      "max_value": 10
     }
   ]
 }
