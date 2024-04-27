@@ -1,7 +1,7 @@
 {
   "name": "Hero404 10",
   "description": "A collection test of ERC404, an experimental token standard enabling persistent liquidity and semi-fungibility for Ethereum NFTs. (ERC20 X ERC721)",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/trandung2801/Public_Data_Ipfs/main/Hero404Image/10.png",
   "attributes": [
     {
       "trait_type": "Rarity",
